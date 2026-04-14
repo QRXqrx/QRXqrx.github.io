@@ -11,9 +11,8 @@ I am currently a Ph.D. candidate at the Software Institute of Nanjing University
 My research interests focus on fuzzing and the application of AI in software testing.
 Prior to my Ph.D. studies, I received my Master’s degree from NJU and my Bachelor’s degree from Harbin Engineering University ([HEU](https://english.hrbeu.edu.cn/)).
 In 2025, I spent an enjoyable and productive summer in Bochum, Germany, as a research intern of Max Plank Institute of Security and Privacy ([MPI-SP](https://www.cis.mpg.de/mpi-for-security-and-privacy/)). 
-I was fortunate to be advised by Dr. [Marcel Böhme](https://mboehme.github.io/) and Dr. [Yannic Nollar](https://yannicnoller.github.io/), connecting with outstanding researchers from the [MPI-SP Software Security group](https://mpi-softsec.github.io/).
+I was fortunate to be advised by Dr. [Marcel Böhme](https://mboehme.github.io/) and Dr. [Yannic Nollar](https://yannicnoller.github.io/) and to connect with outstanding researchers from the [MPI-SP Software Security group](https://mpi-softsec.github.io/).
 Feel free to contact me if you have any questions or are interested in potential collaborations!
-
 
 
 News
