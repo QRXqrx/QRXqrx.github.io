@@ -19,7 +19,7 @@ Feel free to contact me if you have any questions or are interested in potential
 News
 ======
 
-- Our paper, [*LOBREST: Log-based REST API Testing*], has been accepted to ICSE 2027. Congrats to Ding Yang and other collaborators!
+- Our paper, [*LOBREST: Log-based REST API Testing*](https://arxiv.org/abs/2604.08007), has been accepted to ICSE 2027. Congrats to [Ding Yang](https://scholar.google.com/citations?user=v4T6sVgAAAAJ&hl=en) and other collaborators!
 - Our paper, [*Peeling Off the Cocoon: Unveiling Suppressed Golden Seeds for Mutational Greybox Fuzzing*](https://dl.acm.org/doi/10.1145/3798205), has been accepted to OOPSLA 2026. Congrats to all authors!
 - Our paper, [*Deep Learning Framework Testing via Model Mutation: How Far Are We?*](https://ieeexplore.ieee.org/abstract/document/11329108), has been accepted to TSE 2026. Congrats to [Yanzhou](https://scholar.google.com/citations?user=TpNcaesAAAAJ&hl=en)!
 - Finish my intership in MPI-SP, Bochum! Thanks to [Marcel](https://mboehme.github.io/) and [Yannic](https://yannicnoller.github.io/) for their warm hospitality! 
