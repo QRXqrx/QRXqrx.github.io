@@ -25,11 +25,11 @@ author:
   avatar           : "me.jpg"
   name             : "Ruixiang Qian"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. candidate at Nanjing University"
-  location         : "Nanjing, Jiangsu, China"
-  employer         : "Nanjing University"
+  bio              : "Research Scientist at SMU"
+  location         : "Singapore"
+  employer         : "Singapore Management University"
   uri              : # URL
-  email            : "qianrx@smail.nju.edu.cn" 
+  email            : "rxqian@smu.edu.sg" 
 
   # Academic websites
   academia         : # URL
